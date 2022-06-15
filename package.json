@@ -1,7 +1,7 @@
 {
-  "name": "ghost-v4-on-heroku",
-  "version": "4.48.0",
-  "description": "Deploy latest ghost v4 on Heroku",
+  "name": "ghost-v5-on-heroku",
+  "version": "5.2.3",
+  "description": "Deploy latest ghost v5 on Heroku",
   "main": "thelovekesh.js",
   "repository": {
     "type": "git",
@@ -9,7 +9,7 @@
   },
   "keywords": [
     "ghost",
-    "ghost v4",
+    "ghost v5",
     "heroku"
   ],
   "author": "thelovekesh <hi@thelovekesh.com>",
@@ -23,7 +23,7 @@
   },
   "dependencies": {
     "casper": "github:TryGhost/Casper#main",
-    "ghost": "^4.48.0",
+    "ghost": "^5.2.3",
     "ghost-storage-adapter-s3": "^2.8.0",
     "ghost-storage-cloudinary": "^2.2.3",
     "lyra": "github:TryGhost/lyra#main",
